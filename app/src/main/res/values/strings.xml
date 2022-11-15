@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">exampletest</string>
+
+    <string name="msg_unknown_error">Unknown Error Occurred.</string>
+    <string name="msg_auth_error">Authentication error, please re-login.</string>
+    <string name="msg_not_found_error">Sorry, the requested item not available.</string>
+    <string name="msg_network_error">Network error, Please check your internet connection.</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="albums_label">My Albums</string>
+    <string name="no_albums_for_user">there are no Albums for this user</string>
+    <string name="no_album_photos_for_user">there are no Album Photos for this user</string>
+    <string name="search_in_images">Search in images..</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="empty_filter_album_msg">Sorry, there are no data</string>
+    <string name="recommendation_msg">"\nLet me recommend you this Image\n\n"</string>
+
+
+
+</resources>
